@@ -1,1 +1,1 @@
-Very basic port scanner written in Python.
+Very basic port scanner, written in Python.
