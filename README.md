@@ -59,4 +59,3 @@ This advanced port scanner should serve as a solid foundation. Feel free to expa
     Rate-limiting
     Advanced logging
 
-Enjoy secure and efficient scanning!
