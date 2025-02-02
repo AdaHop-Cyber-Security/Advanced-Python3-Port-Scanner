@@ -1,7 +1,3 @@
-Below is an example of a GitHub README section that explains the usage, features, and provides several examples for running the Advanced Python 3 Port Scanner.
-
----
-
 # Advanced Python 3 Port Scanner
 
 **Disclaimer:**  
