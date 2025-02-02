@@ -32,8 +32,7 @@ class AdvancedPortScanner:
     - Multiple targets (including CIDR ranges)
     - Configurable port ranges
     - Concurrent scanning
-    - Banner grabbing (optional)
-    - Timeouts and safe error handling
+    - Banner grabbing 
     """
 
     def __init__(self, 
