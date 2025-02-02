@@ -1,4 +1,4 @@
-### How to Use This Tool
+### Usage
 
 1. **Port Scanning:**  
    Use the `scan` sub-command. For example, to scan the CIDR `192.168.1.0/24` for ports 22 and 80 using TCP and UDP with OS detection, run:  
